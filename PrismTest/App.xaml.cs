@@ -18,7 +18,7 @@ namespace PrismTest
         {
             InitializeComponent();
 
-            NavigationService.NavigateAsync("NavigationPage/MainPage?title=Hello%20from%20Xamarin.Forms");
+            NavigationService.NavigateAsync("NavigationPage/MainPage?title=Enter%20text%20below%20to%20generate%20PDF");
         }
 
         protected override void RegisterTypes()
